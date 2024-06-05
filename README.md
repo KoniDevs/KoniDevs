@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Argie P. Delgado</h1>
 <h3 align="center">A dedicated Full-Stack Developer and Ethical Hacker</h3>
 
-- 👯 I’m looking to collaborate on [Exposition Group](https://expocollaboration.github.io/ExpoWeb/)
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://konidevs.github.io/KoniPortfolio/)
 
 - 💬 Ask me about **How code works?**
