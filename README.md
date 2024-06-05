@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Exposition Group](https://expocollaboration.github.io/ExpoWeb/)
 
-- 👨‍💻 All of my projects are available at [https://konidevs.github.io/KoniPortfolio/](https://github.com/KoniPortfolio)
+- 👨‍💻 All of my projects are available at [https://konidevs.github.io/KoniDevs/](https://github.com/KoniDevs)
 
 - 💬 Ask me about **How code works?**
 
